@@ -3,3 +3,7 @@ def btr():
     print("testOvero")
 
 btr()
+
+if 1==1:
+    a = 1+1
+    print ("OK")
